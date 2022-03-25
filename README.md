@@ -2,7 +2,7 @@
 
 | S.No.  | Date | Program  | Done or Not |
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | 25-03-2022  | Multiples of 3 or 5  |   |
+| 1  | 25-03-2022  | Multiples of 3 or 5  | Done |
 | 2  | 26-03-2022  | Even Fibonacci numbers  |   |
 | 3  | 27-03-2022  | Largest prime factor  |   |
 | 4  | 28-03-2022  | Largest palindrome product  |   |
