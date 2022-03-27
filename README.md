@@ -5,7 +5,7 @@ A great way to improve your skills when learning to code is by solving coding pr
 | S.No.  | Date | Program  | Done or Not |
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | 25-03-2022  | Multiples of 3 or 5  | Done |
-| 2  | 26-03-2022  | Even Fibonacci numbers  |   |
+| 2  | 26-03-2022  | Even Fibonacci numbers  | Done |
 | 3  | 27-03-2022  | Largest prime factor  |   |
 | 4  | 28-03-2022  | Largest palindrome product  |   |
 | 5  | 29-03-2022  | Smallest multiple  |   |
